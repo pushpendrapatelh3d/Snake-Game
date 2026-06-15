@@ -4,7 +4,7 @@ A simple Snake Game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-🔗 **Play Here:** "tiny-kelpie-ff48e1.netlify.app"
+🔗 **Play Here:** tiny-kelpie-ff48e1.netlify.app
 
 ## Features
 
@@ -27,7 +27,7 @@ A simple Snake Game built using HTML, CSS, and JavaScript.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/pushpendrapatelh3d/Snake-Game
 ```
 
 2. Open `index.html` in your browser.
